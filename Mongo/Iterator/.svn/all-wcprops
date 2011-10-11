@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lib_mw/!svn/ver/552/trunk/library/Shanty/Mongo/Iterator
+END
+Cursor.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lib_mw/!svn/ver/552/trunk/library/Shanty/Mongo/Iterator/Cursor.php
+END
+Export.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lib_mw/!svn/ver/387/trunk/library/Shanty/Mongo/Iterator/Export.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lib_mw/!svn/ver/387/trunk/library/Shanty/Mongo/Iterator/Default.php
+END

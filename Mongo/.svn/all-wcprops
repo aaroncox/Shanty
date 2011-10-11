@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lib_mw/!svn/ver/558/trunk/library/Shanty/Mongo
+END
+DocumentSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lib_mw/!svn/ver/558/trunk/library/Shanty/Mongo/DocumentSet.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lib_mw/!svn/ver/545/trunk/library/Shanty/Mongo/Collection.php
+END
+Document.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lib_mw/!svn/ver/556/trunk/library/Shanty/Mongo/Document.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/lib_mw/!svn/ver/387/trunk/library/Shanty/Mongo/Exception.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lib_mw/!svn/ver/387/trunk/library/Shanty/Mongo/Connection.php
+END
