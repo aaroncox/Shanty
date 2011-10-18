@@ -9,5 +9,7 @@
  */
 class Shanty_Mongo_Exception extends Exception
 {
-	
+  function __construct(){
+    parent::__construct();
+  }
 }
