@@ -826,7 +826,7 @@ class Shanty_Mongo_Document extends Shanty_Mongo_Collection implements ArrayAcce
 			$result = $mongoCollection->update($this->getCriteria(), array('$unset' => array($this->getPathToDocument() => 1)));
 		}
 		else {
-			$result = $mongoCollection->remove($this->getCriteria(), true);
+			$result = $mongoCollection->remove($this->getCriteria());
 		}
 		
 		return $result;
